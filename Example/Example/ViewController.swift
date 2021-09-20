@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         view.backgroundColor = .black
     }
 
+    override func viewWillAppear(_ animated: Bool) {
+        
+    }
 
 }
 
